@@ -1,7 +1,8 @@
 A. Menjalankan Server Flask-------------------------------------
 
-1. Jalankan virtual environment dengan perintah " vir_env\Scripts\activate "
-2. Setting file python yang mau menjadi program utama flask 
+1. Jalankan MySQL dan export banking_api.sql
+2. Jalankan virtual environment dengan perintah " vir_env\Scripts\activate "
+3. Setting file python yang mau menjadi program utama flask 
    	a. jalankan perintah di cmd " set FLASK_APP=app_api.py "
 4. Setting environment menjadi development
 	a. jalanin perintah " set FLASK_ENV=development "
